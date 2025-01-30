@@ -8,6 +8,6 @@ You can ask it about the following and it will be able to answer:
 -Nutrition
 -All types of workouts and how to do them
 -Workout Scheduling
--how and when to take prescribed Medication - Like HRT
+-how and when to take HRT
 
 
